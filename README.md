@@ -4,9 +4,9 @@
 
 The `Base.Test` module changed substantially internally in
 Julia `v0.5`. Most use cases are unaffected, but some features
-such as `Test.with_handler` were removed. This pacakge provides
+such as `Test.with_handler` were removed. This package provides
 the previous `Base.Test` functionality so that packages that
-depended on this functionality can keep working a minimal change.
+depended on this functionality can keep working with a minimal change.
 
 ### Usage
 
