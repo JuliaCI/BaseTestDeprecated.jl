@@ -1,6 +1,6 @@
 # BaseTestDeprecated
 
-[![Build Status](https://travis-ci.org/IainNZ/BaseTestDeprecated.jl.svg?branch=master)](https://travis-ci.org/IainNZ/BaseTestDeprecated.jl)
+[![Build Status](https://travis-ci.org/JuliaCI/BaseTestDeprecated.jl.svg?branch=master)](https://travis-ci.org/JuliaCI/BaseTestDeprecated.jl)
 
 The `Base.Test` module changed substantially internally in
 Julia `v0.5`. Most use cases are unaffected, but some features
